@@ -1,0 +1,30 @@
+.login-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+    margin: 4rem auto;
+    padding: 2rem;
+
+    background: #ffffff;
+    border-radius: 20px;
+    width: fit-content;
+
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+.login-image {
+    width: 300px;
+    height: 300px;
+    border-radius: 18px;
+    object-fit: cover;
+}
+
+.login-container {
+    text-align: center;
+    width: 260px;
+    padding: 1.5rem;
+
+    background: #fdfdfd;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
